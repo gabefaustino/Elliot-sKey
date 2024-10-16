@@ -1,4 +1,5 @@
-# Elliot's Key
+# Elliot's Key 
+<img src="https://github.com/gabefaustino/Elliot-sKey/blob/main/Ellotts%20Key%20Logo.png" alt="Elliot's Logo" width="90">
 Elliot's Key é um gerador de senhas seguras inspirado em boas práticas de cibersegurança, projetado para criar senhas aleatórias e criptograficamente seguras. O gerador utiliza a biblioteca secrets do Python, garantindo que suas senhas atendam aos padrões de segurança necessários para proteção em sistemas modernos.
 
 ## Funcionalidades
